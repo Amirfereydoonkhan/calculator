@@ -1,1 +1,1 @@
-Simple Claculator React App using Reducer
+Simple Calculator using React and Reducer
